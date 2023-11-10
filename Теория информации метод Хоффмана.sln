@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Теория информации метод Хоффмана", "Теория информации метод Хоффмана.csproj", "{EC4D3094-A80F-489D-AD8E-00AD7AD42D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4D3094-A80F-489D-AD8E-00AD7AD42D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4D3094-A80F-489D-AD8E-00AD7AD42D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4D3094-A80F-489D-AD8E-00AD7AD42D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4D3094-A80F-489D-AD8E-00AD7AD42D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADBD709D-1C20-43BF-98C8-929685EB38F6}
+	EndGlobalSection
+EndGlobal
